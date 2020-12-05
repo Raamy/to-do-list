@@ -1,0 +1,7 @@
+$theme-colors: (
+        "dark": #1b1e1f,
+);
+
+// Import des fichiers Bootstrap
+@import '~bootstrap/scss/bootstrap.scss';
+@import '~bootstrap-vue/src/index.scss';
